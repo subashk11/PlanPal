@@ -25,6 +25,7 @@ To run the PlanPal application locally, follow these steps:
 2. Navigate to the project directory.
 3. Run the application using Maven: `mvn spring-boot:run`
 4. Access the application in your web browser at `http://localhost:8080`
+5. UserId = root and password = root.
 
 ## Contributing
 
