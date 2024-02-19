@@ -17,6 +17,21 @@ PlanPal is a Spring Boot application designed to help users manage their tasks a
 - **Bootstrap**: Frontend framework used for styling and layout.
 - **Maven**: Dependency management tool for Java projects.
 
+## Pages
+
+1. Login Page
+![image](https://github.com/subashk11/PlanPal/assets/71496958/2af2d691-2032-42b9-9b4a-cf279bbac48b)
+
+2. Home Page
+![image](https://github.com/subashk11/PlanPal/assets/71496958/1e8be430-b594-4809-9ed5-743641b5472f)
+
+3. ToDo's List Page
+![image](https://github.com/subashk11/PlanPal/assets/71496958/4fbf8286-08fb-4893-b481-d2eb8f3921a7)
+
+4. Add new ToDo
+![image](https://github.com/subashk11/PlanPal/assets/71496958/49f83861-d289-4938-805b-04cf0e74cb70)
+
+
 ## Getting Started
 
 To run the PlanPal application locally, follow these steps:
