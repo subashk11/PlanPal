@@ -1,11 +1,20 @@
 package com.springboot.projects.ToDoApplication.todocomponents;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.Id;
 import jakarta.validation.constraints.Size;
 
 import java.time.LocalDate;
 
+@Entity(name="todo")
 public class ToDo {
+    public ToDo() {
 
+    }
+
+    @Id
+    @GeneratedValue
     private int id;
     private String username;
     @Size(min = 10, max = 255, message="Enter a description greater than 10 and less than 255 characters")
